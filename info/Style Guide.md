@@ -29,8 +29,15 @@ void foo() {
     boolean thisIsTrue = true;
 }
 ```
-
 ### Files
+Files must be named using PascalCase.
+For example a project solution may look like this:
+Source
+   Main.java
+   Robot.java
+   Utils
+      RobotUtilities.java
+      GrabSystem.java
 
 ## Formatting
 ### Tabs or spaces
